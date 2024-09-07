@@ -1,4 +1,4 @@
-### ** Reforma Tributária descomplicada: Uma jornada pelo mundo dos impostos**
+### Reforma Tributária descomplicada: Uma jornada pelo mundo dos impostos - Imersão Dev com Google Gemini
 
 **O que é isso?**
 
