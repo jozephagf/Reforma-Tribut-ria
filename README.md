@@ -32,7 +32,7 @@ Manda um pull request! Toda ajuda é bem-vinda para deixar esse projeto ainda ma
 
 **Dúvidas?**
 
-Manda um e-mail para jalbinho@email.com ou me encontra no LinkedIn: https://es.wiktionary.org/wiki/removido
+Me encontra no LinkedIn: (https://es.wiktionary.org/wiki/removido](https://www.linkedin.com/in/jos%C3%A9-guilherme-2423451b5/)
 
 **Vamos juntos desvendar os mistérios da Reforma Tributária!**
 
