@@ -32,7 +32,7 @@ Manda um pull request! Toda ajuda é bem-vinda para deixar esse projeto ainda ma
 
 **Dúvidas?**
 
-Me encontra no LinkedIn: (https://es.wiktionary.org/wiki/removido](https://www.linkedin.com/in/jos%C3%A9-guilherme-2423451b5/)
+Me encontra no LinkedIn: (https://www.linkedin.com/in/jos%C3%A9-guilherme-2423451b5/)
 
 **Vamos juntos desvendar os mistérios da Reforma Tributária!**
 
