@@ -39,12 +39,3 @@ Me encontra no LinkedIn: (https://www.linkedin.com/in/jos%C3%A9-guilherme-242345
 **#ReformaTributária #Impostos #Economia #Descomplica**
 
 ---
-
-**Dicas:**
-
-* **Emojis:** Deixam o texto mais divertido e fácil de ler.
-* **Linguagem simples:** Evite termos técnicos e explique tudo de forma clara.
-* **Chamadas para ação:** Incentive os usuários a contribuírem e a entrarem em contato.
-* **Personalize:** Adapte o texto à sua personalidade e ao tom do seu projeto.
-
-**Lembre-se:** O README é a porta de entrada para o seu projeto. Use-o para criar uma primeira impressão positiva e convidativa!
